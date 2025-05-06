@@ -58,7 +58,7 @@ void Fun::Toy::saveToFile(std::ofstream& file) const
 void Fun::Toy::loadFromFile(std::ifstream& file)
 {
     getline(file, name);
-     file >> price;
+    file >> price;
     file.get();
     getline(file, manufacturer);
     file >> material_quality;
