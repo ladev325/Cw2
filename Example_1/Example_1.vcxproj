@@ -134,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Clothing.h" />
+    <ClInclude Include="Equipment.h" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="Product.h" />
     <ClInclude Include="Toy.h" />
