@@ -1,0 +1,6 @@
+Toy
+Plane
+200
+Manufacturer
+7
+5
